@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "myexpress",
+  "description": "Tutustutaan REST APIn tekoon",
+  "version": "1.0.0",
+  "main": "node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsniemi/myexpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsniemi/myexpress/issues"
+  },
+  "homepage": "https://github.com/hsniemi/myexpress#readme"
+}
